@@ -1,6 +1,6 @@
 # nyieunweb
 
-https://nyieunweb-b5565.web.app/
+https://nyieun.web.app/
 
 ## Tools
 * reactjs
